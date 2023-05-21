@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Manceb0
-- 👀 I’m interested to convertme a Full Stack .NET
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Manuel Mancebo
+- 👀 I’m interested to convertme a Full Stack Developer
+- 🌱 I’m currently learning REACT and Python
+- 💞️ I’m looking to collaborate on Apolo27 
+
 
 <!---
 Manceb0/Manceb0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
