@@ -22,7 +22,7 @@ Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Devel
 
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields/badge/-C++-000?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
@@ -30,7 +30,7 @@ Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Devel
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator)
 ---
 ## Aprendiendo actualmente 🌱 :
