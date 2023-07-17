@@ -3,7 +3,7 @@
 ## Sobre mí
 Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Developer`, estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
 ---
-## Estadísticas de GitHub
+#### Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Manceb0&show_icons=true&theme=dark)
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Manceb0&layout=compact)](https://github.com/Manceb0/github-readme-stats)
 ---
@@ -31,8 +31,7 @@ Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Devel
 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop)
-![llustrator](https://img.shields/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator)
-
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator)
 ---
 ## Aprendiendo actualmente 🌱 :
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000?style=for-the-badge&logo=three.js)
