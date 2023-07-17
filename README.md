@@ -1,7 +1,7 @@
 # Hola👋, soy Manceb0 🍔
 ---
-## Sobre mí
 Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Developer`, estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
+
 ---
 #### Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Manceb0&show_icons=true&theme=dark)
