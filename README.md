@@ -21,8 +21,8 @@ Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Devel
 ![MaterialUI](https://img.shields.io/badge/Material--UI-000?style=for-the-badge&logo=material-ui)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![C++](https://img.shields/badge/-C++-000?style=for-the-badge&logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
