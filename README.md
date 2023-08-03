@@ -37,6 +37,6 @@ Estudiante de Ingeniería de Software en INTEC. `Web Developer` y `Backend Devel
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000?style=for-the-badge&logo=three.js)
 
 ## Proyectos destacados
-[Incluye aquí algunos de tus proyectos destacados con una breve descripción y enlaces a los repositorios o demos en vivo]
+[REPOSITORIO EN VIVO]
 
 
