@@ -1,6 +1,6 @@
 # Hola👋, soy Manceb0 🍔
 ---
-Estudiante de Ingeniería de Software en INTEC. `Web Developer`, `Backend Developer`, `Diseñador UX/UI` `Analista de datos y Auditor de Calidad de procesos`, estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
+Estudiante de Ingeniería de Software en INTEC. `Analista de datos y Auditor de Calidad de procesos`> `Web Developer`, `Backend Developer`, `Diseñador UX/UI`, estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
 ---
 #### Estadísticas de GitHub
